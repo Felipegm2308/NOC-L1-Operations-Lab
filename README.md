@@ -1,4 +1,4 @@
-# DXC NOC L1 Operations Lab
+#  NOC L1 Operations Lab
 
 Laboratorio integral orientado al puesto **NOC Network Technician L1 de DXC**. El proyecto reproduce el ciclo operativo de un NOC: detectar un evento, validar su impacto, ejecutar diagnóstico de nivel 1, registrar el incidente, comunicar avances, escalar dentro del SLA y documentar la restauración del servicio.
 
